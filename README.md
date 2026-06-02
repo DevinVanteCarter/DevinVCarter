@@ -1,4 +1,4 @@
-# Hey, I'm Aspen Laurent 👋
+# Hey, I'm Devin Carter 👋
 
 Data analyst who turns messy datasets into clear decisions.  
 I build end-to-end analysis projects — from raw data to insights that actually matter.
